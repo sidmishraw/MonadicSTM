@@ -1,2 +1,3 @@
-# gostmv2
-Go STM version 2 -- STM reworked
+# MonadicSTM
+
+Software Transactional Memory for Java8 using the Monadic approach.
